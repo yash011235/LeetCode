@@ -11,27 +11,28 @@
  */
 class Solution {
 public:
-    bool isCompleteTree(TreeNode* root) {
+
+    int countNodes(TreeNode* root){
+        if(!root){
+            return 0;
+        }
+        return 1 + countNodes(root->left) + countNodes(root->right);
+    }
+
+    bool dfs(TreeNode* root, int total, int i){
         if(!root){
             return true;
         }
-        queue<TreeNode*>q;
-        q.push(root);
-        bool seenNULL = false;
-        while(!q.empty()){
-            TreeNode* curr = q.front();
-            q.pop();
-            if(curr == NULL){
-                seenNULL = true;
-            }
-            else{
-                if(seenNULL){
-                    return false;
-                }
-                q.push(curr->left);
-                q.push(curr->right); 
-            }
+        if(i > total){
+            return false;
         }
-        return true;
+        bool left = dfs(root->left, total, 2 * i);
+        bool right = dfs(root->right, total, 2 * i + 1);
+        return left && right;
+    }
+
+    bool isCompleteTree(TreeNode* root) {
+        int total = countNodes(root);
+        return dfs(root, total, 1);
     }
 };
