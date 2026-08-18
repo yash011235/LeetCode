@@ -19,20 +19,20 @@ public:
         return 1 + countNodes(root->left) + countNodes(root->right);
     }
 
-    bool dfs(TreeNode* root, int total, int i){
+    bool dfs(TreeNode* root, int i, int total){
         if(!root){
             return true;
         }
         if(i > total){
             return false;
         }
-        bool left = dfs(root->left, total, 2 * i);
-        bool right = dfs(root->right, total, 2 * i + 1);
-        return left && right;
+        bool left = dfs(root->left, 2 * i, total);
+        bool right = dfs(root->right, 2 * i + 1, total);
+        return (left && right);
     }
 
     bool isCompleteTree(TreeNode* root) {
         int total = countNodes(root);
-        return dfs(root, total, 1);
+        return dfs(root, 1, total);
     }
 };
