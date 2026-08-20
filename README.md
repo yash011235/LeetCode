@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash011235/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/yash011235/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yash011235/LeetCode/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/yash011235/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yash011235/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/yash011235/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/yash011235/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash011235/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/yash011235/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yash011235/LeetCode/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/yash011235/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yash011235/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/yash011235/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/yash011235/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/yash011235/LeetCode/tree/master/0113-path-sum-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/yash011235/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/yash011235/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
