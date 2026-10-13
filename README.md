@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/yash011235/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/yash011235/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/yash011235/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/yash011235/LeetCode/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash011235/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash011235/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1110-delete-nodes-and-return-forest](https://github.com/yash011235/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -129,4 +130,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yash011235/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/yash011235/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/yash011235/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
