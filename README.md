@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yash011235/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yash011235/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/yash011235/LeetCode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/yash011235/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash011235/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash011235/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1110-delete-nodes-and-return-forest](https://github.com/yash011235/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yash011235/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/yash011235/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/yash011235/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/yash011235/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash011235/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yash011235/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash011235/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/yash011235/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/yash011235/LeetCode/tree/master/0075-sort-colors) |
 | [1329-sort-the-matrix-diagonally](https://github.com/yash011235/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 ## Dynamic Programming
 |  |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yash011235/LeetCode/tree/master/0049-group-anagrams) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yash011235/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yash011235/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
