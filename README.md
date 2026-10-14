@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yash011235/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash011235/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash011235/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/yash011235/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0724-find-pivot-index](https://github.com/yash011235/LeetCode/tree/master/0724-find-pivot-index) |
 | [0976-largest-perimeter-triangle](https://github.com/yash011235/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1110-delete-nodes-and-return-forest](https://github.com/yash011235/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yash011235/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/yash011235/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash011235/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0219-contains-duplicate-ii](https://github.com/yash011235/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/yash011235/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 ## Divide and Conquer
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/yash011235/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/yash011235/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
