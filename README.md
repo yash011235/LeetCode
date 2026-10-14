@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/yash011235/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yash011235/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/yash011235/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1706-where-will-the-ball-fall](https://github.com/yash011235/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/yash011235/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yash011235/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/yash011235/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1706-where-will-the-ball-fall](https://github.com/yash011235/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yash011235/LeetCode/tree/master/0054-spiral-matrix) |
+| [1706-where-will-the-ball-fall](https://github.com/yash011235/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 ## String
 |  |
 | ------- |
