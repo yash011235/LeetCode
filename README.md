@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash011235/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash011235/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/yash011235/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0523-continuous-subarray-sum](https://github.com/yash011235/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/yash011235/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/yash011235/LeetCode/tree/master/0724-find-pivot-index) |
 | [0976-largest-perimeter-triangle](https://github.com/yash011235/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yash011235/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash011235/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/yash011235/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0523-continuous-subarray-sum](https://github.com/yash011235/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/yash011235/LeetCode/tree/master/0645-set-mismatch) |
 | [1110-delete-nodes-and-return-forest](https://github.com/yash011235/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 ## Divide and Conquer
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yash011235/LeetCode/tree/master/0048-rotate-image) |
+| [0523-continuous-subarray-sum](https://github.com/yash011235/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/yash011235/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yash011235/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Matrix
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/yash011235/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/yash011235/LeetCode/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yash011235/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/yash011235/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
