@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yash011235/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yash011235/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/yash011235/LeetCode/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/yash011235/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/yash011235/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash011235/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash011235/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
