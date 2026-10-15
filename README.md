@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yash011235/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/yash011235/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1706-where-will-the-ball-fall](https://github.com/yash011235/LeetCode/tree/master/1706-where-will-the-ball-fall) |
+| [2256-minimum-average-difference](https://github.com/yash011235/LeetCode/tree/master/2256-minimum-average-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/yash011235/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/yash011235/LeetCode/tree/master/0724-find-pivot-index) |
+| [2256-minimum-average-difference](https://github.com/yash011235/LeetCode/tree/master/2256-minimum-average-difference) |
 ## Greedy
 |  |
 | ------- |
