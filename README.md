@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/yash011235/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2256-minimum-average-difference](https://github.com/yash011235/LeetCode/tree/master/2256-minimum-average-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/yash011235/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yash011235/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/yash011235/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/yash011235/LeetCode/tree/master/0645-set-mismatch) |
 | [1110-delete-nodes-and-return-forest](https://github.com/yash011235/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yash011235/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -208,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/yash011235/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yash011235/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yash011235/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
