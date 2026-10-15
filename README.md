@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash011235/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash011235/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/yash011235/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash011235/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/yash011235/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/yash011235/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/yash011235/LeetCode/tree/master/0724-find-pivot-index) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yash011235/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/yash011235/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yash011235/LeetCode/tree/master/0075-sort-colors) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash011235/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/yash011235/LeetCode/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/yash011235/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1329-sort-the-matrix-diagonally](https://github.com/yash011235/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash011235/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0976-largest-perimeter-triangle](https://github.com/yash011235/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/yash011235/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yash011235/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
