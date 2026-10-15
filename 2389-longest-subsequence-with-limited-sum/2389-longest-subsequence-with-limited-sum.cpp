@@ -3,10 +3,10 @@ public:
     vector<int> answerQueries(vector<int>& nums, vector<int>& queries) {
         sort(nums.begin(), nums.end()); //nlogn
         int n = nums.size();
-        vector<int>prefixSum(n + 1);
+        vector<long long>prefixSum(n + 1);
         prefixSum[0] = 0;
         for(int i = 1; i <= n; i++){ //n
-            prefixSum[i] = prefixSum[i - 1] + nums[i - 1];
+            prefixSum[i] = prefixSum[i - 1] + 1LL * nums[i - 1];
         }
         //0 1 3 7 12
         vector<int>ans;
