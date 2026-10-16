@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yash011235/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash011235/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/yash011235/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0605-can-place-flowers](https://github.com/yash011235/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/yash011235/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/yash011235/LeetCode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/yash011235/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yash011235/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yash011235/LeetCode/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash011235/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/yash011235/LeetCode/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/yash011235/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/yash011235/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yash011235/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
