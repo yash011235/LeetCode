@@ -1,26 +1,29 @@
 class Solution {
 public:
-    int n;
-    unordered_set<int>visi;
-    bool solve(vector<int>&arr, int idx){
-        if(idx < 0 || idx >= n){
-            return false;
-        }
-        if(arr[idx] == 0){
-            return true;
-        }
-        if(visi.count(idx)){
-            return false;
-        }
-        visi.insert(idx);
-        
-        bool op1 = solve(arr, idx - arr[idx]);
-        bool op2 = solve(arr, idx + arr[idx]);
-        return op1 || op2;
-    }
-
     bool canReach(vector<int>& arr, int start) {
-        n = arr.size();
-        return solve(arr, start);
+        int n = arr.size();
+        queue<int>q;
+        vector<bool>visi(n, false);
+        q.push(start);
+        visi[start] = true;
+        while(!q.empty()){
+            int curr = q.front();
+            q.pop();
+
+            if(arr[curr] == 0){
+                return true;
+            }
+            int op1 = curr - arr[curr];
+            int op2 = curr + arr[curr];
+            if(op1 >= 0 && op1 < n && !visi[op1]){
+                q.push(op1);
+                visi[op1] = true;
+            }
+            if(op2 >= 0 && op2 < n && !visi[op2]){
+                q.push(op2);
+                visi[op2] = true;
+            }
+        }
+        return false;
     }
 };
