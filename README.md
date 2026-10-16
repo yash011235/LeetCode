@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/yash011235/LeetCode/tree/master/1306-jump-game-iii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/yash011235/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1345-jump-game-iv](https://github.com/yash011235/LeetCode/tree/master/1345-jump-game-iv) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/yash011235/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1706-where-will-the-ball-fall](https://github.com/yash011235/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2256-minimum-average-difference](https://github.com/yash011235/LeetCode/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/yash011235/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
