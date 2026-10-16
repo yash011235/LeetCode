@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yash011235/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yash011235/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/yash011235/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/yash011235/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/yash011235/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash011235/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash011235/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/yash011235/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yash011235/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/yash011235/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/yash011235/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0909-snakes-and-ladders](https://github.com/yash011235/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1020-number-of-enclaves](https://github.com/yash011235/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yash011235/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/yash011235/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1706-where-will-the-ball-fall](https://github.com/yash011235/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 ## String
 |  |
