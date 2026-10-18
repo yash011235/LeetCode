@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/yash011235/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/yash011235/LeetCode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/yash011235/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0881-boats-to-save-people](https://github.com/yash011235/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0909-snakes-and-ladders](https://github.com/yash011235/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yash011235/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/yash011235/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yash011235/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yash011235/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash011235/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/yash011235/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash011235/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash011235/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/yash011235/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/yash011235/LeetCode/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/yash011235/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/yash011235/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1329-sort-the-matrix-diagonally](https://github.com/yash011235/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash011235/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yash011235/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/yash011235/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/yash011235/LeetCode/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/yash011235/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/yash011235/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash011235/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/yash011235/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -311,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yash011235/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/yash011235/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
