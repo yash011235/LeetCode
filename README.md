@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yash011235/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1706-where-will-the-ball-fall](https://github.com/yash011235/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash011235/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2090-k-radius-subarray-averages](https://github.com/yash011235/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2256-minimum-average-difference](https://github.com/yash011235/LeetCode/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/yash011235/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/yash011235/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yash011235/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [2090-k-radius-subarray-averages](https://github.com/yash011235/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 ## Pigeonhole Principle
 |  |
 | ------- |
