@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/yash011235/LeetCode/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/yash011235/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/yash011235/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2740-find-the-value-of-the-partition](https://github.com/yash011235/LeetCode/tree/master/2740-find-the-value-of-the-partition) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yash011235/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yash011235/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/yash011235/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash011235/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/yash011235/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2740-find-the-value-of-the-partition](https://github.com/yash011235/LeetCode/tree/master/2740-find-the-value-of-the-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
