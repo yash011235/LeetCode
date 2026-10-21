@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yash011235/LeetCode/tree/master/0049-group-anagrams) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/yash011235/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Quicksort
 |  |
 | ------- |
